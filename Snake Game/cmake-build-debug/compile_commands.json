@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/inser/Downloads/Snake Game/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.2\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\Snake_Game.dir\\main.cpp.obj -c \"C:\\Users\\inser\\Downloads\\Snake Game\\main.cpp\"",
+  "file": "C:/Users/inser/Downloads/Snake Game/main.cpp",
+  "output": "C:/Users/inser/Downloads/Snake Game/cmake-build-debug/CMakeFiles/Snake_Game.dir/main.cpp.obj"
+}
+]
